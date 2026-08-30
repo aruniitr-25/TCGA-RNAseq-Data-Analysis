@@ -37,7 +37,7 @@ Unzipped data folders (containing the *.augmented_star_gene_counts.tsv files)
 
 2. Run the Script
 
-python3 project4_datascience.py
+python3 TCGA RNA-seq Data Analysis_datascience.py
 
 
 #### Output:
